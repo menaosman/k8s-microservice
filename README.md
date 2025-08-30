@@ -13,8 +13,8 @@ This project automates the deployment of a Python-based microservice using:
 ## 📌 Architecture Diagram (Detailed CI/CD Pipeline)
 ![Pipeline Diagram](Diagram.png)
 
-![App Screenshot](images/README.png)
-![App Screenshot](images/Diagram.png)
+![App Screenshot](README.png)
+![App Screenshot](Diagram.png)
 
 
 
