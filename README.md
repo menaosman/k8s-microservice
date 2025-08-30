@@ -14,7 +14,7 @@ This project automates the deployment of a Python-based microservice using:
 ![Pipeline Diagram](Diagram.png)
 
 ![App Screenshot](README.png)
-![App Screenshot](Diagram.png)
+![App Screenshot](microservice_deployment_sprints.drawio.png)
 
 
 
