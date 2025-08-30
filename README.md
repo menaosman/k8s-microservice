@@ -1,6 +1,25 @@
 # Flask Todo Application with DevOps Pipeline
 
 A modern Flask-based Todo application featuring a complete CI/CD pipeline with containerization, Kubernetes deployment, Infrastructure as Code (Terraform), and comprehensive monitoring stack.
+# Microservice Deployment on Kubernetes
+
+This project automates the deployment of a Python-based microservice using:
+- Docker & GitHub Actions (CI/CD)
+- Terraform (Infrastructure provisioning)
+- Kubernetes (EKS on AWS)
+- ArgoCD (GitOps)
+- Prometheus + Grafana (Monitoring)
+
+---
+
+## 📌 Architecture Diagram (Simple View)
+![Simple Architecture](assets/f4ac0ac5-3cf9-4271-9905-f6ed91579185.png)
+
+---
+
+## 📌 Architecture Diagram (Detailed CI/CD Pipeline)
+![Pipeline Diagram](assets/Diagram.png)
+
 ![App Screenshot](images/README.png)
 ![App Screenshot](images/Diagram.png)
 
