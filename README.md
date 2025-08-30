@@ -10,13 +10,6 @@ This project automates the deployment of a Python-based microservice using:
 - ArgoCD (GitOps)
 - Prometheus + Grafana (Monitoring)
 
----
-
-## 📌 Architecture Diagram (Simple View)
-![Simple Architecture](assets/f4ac0ac5-3cf9-4271-9905-f6ed91579185.png)
-
----
-
 ## 📌 Architecture Diagram (Detailed CI/CD Pipeline)
 ![Pipeline Diagram](assets/Diagram.png)
 
