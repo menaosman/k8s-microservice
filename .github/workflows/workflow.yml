@@ -93,3 +93,4 @@ jobs:
           kubectl get nodes -o wide || true
           kubectl get pods -o wide
           kubectl get svc
+          
