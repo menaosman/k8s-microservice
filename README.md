@@ -11,7 +11,7 @@ This project automates the deployment of a Python-based microservice using:
 - Prometheus + Grafana (Monitoring)
 
 ## 📌 Architecture Diagram (Detailed CI/CD Pipeline)
-![Pipeline Diagram](assets/Diagram.png)
+![Pipeline Diagram](Diagram.png)
 
 ![App Screenshot](images/README.png)
 ![App Screenshot](images/Diagram.png)
