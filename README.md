@@ -9,7 +9,7 @@ This project automates the deployment of a Python-based microservice using:
 - Kubernetes (EKS on AWS)
 - ArgoCD (GitOps)
 - Prometheus + Grafana (Monitoring)
-
+# visite :https://github.com/menaosman/k8s-microservice
 ## 📌 Architecture Diagram (Detailed CI/CD Pipeline)
 ![Pipeline Diagram](Diagram.png)
 
