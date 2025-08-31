@@ -28,6 +28,7 @@ This project automates the deployment of a Python-based microservice using:
 - **Monitoring Stack**: Prometheus and Grafana for application and infrastructure monitoring
 - **Multi-Registry Support**: Images pushed to both Docker Hub and GitHub Container Registry
 
+
 ## 📋 Table of Contents
 
 - [Architecture](#architecture)
